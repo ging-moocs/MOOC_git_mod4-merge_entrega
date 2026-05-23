@@ -2,10 +2,6 @@
   "name": "MOOC_git_mod4-merge_entrega",
   "author": "ging-moocs",
   "license": "AGPL-3.0",
-  "engines": {
-    "node": "^16.8.0",
-    "npm": "^7.21.0"
-  },
   "dependencies": {
     "autocorector": "^3.5.0",
     "fs-extra": "*",
